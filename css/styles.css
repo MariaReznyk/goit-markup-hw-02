@@ -118,6 +118,7 @@ address {font-style: normal;}
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-item
@@ -148,6 +149,7 @@ address {font-style: normal;}
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .portfolio-item-title
